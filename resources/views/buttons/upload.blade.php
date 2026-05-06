@@ -1,0 +1,1 @@
+<button class="btn btn-sm elevation-2 btn-info mb-2" data-toggle="modal" data-target="#{{$target}}"><i class="fas fa-upload"></i> Upload</button>
